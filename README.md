@@ -12,9 +12,9 @@ This project was done under,
 
 * [Group Members](#group-members)
 * [Introduction](#introduction)
-* [Introduction of data set](#introduction_dt)
-* [Faced Problem](#problem)
-* [Steps followed](#step)
+* [Introduction of data set](#introduction_of_data_set)
+* [Faced Problem](#faced_problem)
+* [Steps followed](#steps_followed)
 * [Technologies](#Technologies)
 * [Advisors](#advisors)
 * [Links](#links)
@@ -29,7 +29,7 @@ Our project centres around cricket, a globally popular sport. We specifically fo
 the T20 cricket format, emphasizing the 2022 T20 World Cup. This choice stems from a 
 comprehensive study of cricket's landscape and the distinctive features of T20 tournaments.
 
-#### Introduction to the dataset selected.
+#### Introduction of data set
 
 The dataset obtained from Kaggle is a comprehensive collection of cricket statistics, capturing 
 individual player performances during the ICC Men's T20 World Cup 2022, hosted in Australia. 

@@ -12,9 +12,9 @@ This project was done under,
 
 * [Group Members](#group-members)
 * [Introduction](#introduction)
-* [Introduction of data set](#introduction_of_data_set)
-* [Faced Problem](#faced_problem)
-* [Steps followed](#steps_followed)
+* [Introduction of data set](#introduction-of-data-set)
+* [Faced Problem](#faced-problem)
+* [Steps followed](#steps-followed)
 * [Technologies](#Technologies)
 * [Advisors](#advisors)
 * [Links](#links)
